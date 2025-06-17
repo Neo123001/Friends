@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+jinja2
+sqlalchemy
+openai>=1.0.0
+python-multipart
+email-validator
